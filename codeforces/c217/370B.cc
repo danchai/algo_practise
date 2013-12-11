@@ -1,6 +1,6 @@
 // =====================================================================================
 // 
-//       Filename:  c370_b.cc
+//       Filename:  370B.cc
 //    Description:  Found the set with no subset out
 //       Compiler:  g++
 //         Author:  Tengwei Cai (twcai), tengweicai@gmail.com
